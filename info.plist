@@ -4,6 +4,8 @@
 <dict>
 	<key>bundleid</key>
 	<string>com.alfredapp.alfred-docs</string>
+	<key>category</key>
+	<string>Internet</string>
 	<key>connections</key>
 	<dict>
 		<key>D2551551-FCD3-4627-8892-23B0900ABCEE</key>
@@ -23,11 +25,11 @@
 	<key>createdby</key>
 	<string>Pawel Grzybek</string>
 	<key>description</key>
-	<string>Browse documentation</string>
+	<string>Browse documentations</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>docs</string>
+	<string>Docs</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -40,7 +42,7 @@
 				<key>fixedorder</key>
 				<false/>
 				<key>items</key>
-				<string>[{"title":"ECMAScript","arg":"https:\/\/262.ecma-international.org","subtitle":"https:\/\/262.ecma-international.org"},{"title":"Node.js","arg":"https:\/\/nodejs.org\/dist\/latest-v16.x\/docs\/api\/","subtitle":"https:\/\/nodejs.org\/dist\/latest-v16.x\/docs\/api\/"},{"title":"commercetools","arg":"https:\/\/docs.commercetools.com\/api\/","subtitle":"https:\/\/docs.commercetools.com\/api\/"},{"title":"AWS SDK","arg":"https:\/\/docs.aws.amazon.com\/AWSJavaScriptSDK\/v3\/latest\/","subtitle":"https:\/\/docs.aws.amazon.com\/AWSJavaScriptSDK\/v3\/latest\/"},{"title":"zsh","arg":"https:\/\/zsh.sourceforge.io\/Doc\/Release\/zsh_toc.html","subtitle":"https:\/\/zsh.sourceforge.io\/Doc\/Release\/zsh_toc.html"}]</string>
+				<string>[{"title":"ECMAScript","arg":"https:\/\/262.ecma-international.org","subtitle":"https:\/\/262.ecma-international.org"},{"title":"Node.js","arg":"https:\/\/nodejs.org\/dist\/latest-v16.x\/docs\/api\/","subtitle":"https:\/\/nodejs.org\/dist\/latest-v16.x\/docs\/api\/"},{"title":"commercetools","arg":"https:\/\/docs.commercetools.com\/api\/","subtitle":"https:\/\/docs.commercetools.com\/api\/"},{"title":"AWS SDK","arg":"https:\/\/docs.aws.amazon.com\/AWSJavaScriptSDK\/v3\/latest\/","subtitle":"https:\/\/docs.aws.amazon.com\/AWSJavaScriptSDK\/v3\/latest\/"},{"title":"zsh","arg":"https:\/\/zsh.sourceforge.io\/Doc\/Release\/zsh_toc.html","subtitle":"https:\/\/zsh.sourceforge.io\/Doc\/Release\/zsh_toc.html"},{"title":"deno","arg":"https:\/\/doc.deno.land\/builtin\/stable","subtitle":"https:\/\/doc.deno.land\/builtin\/stable"}]</string>
 				<key>keyword</key>
 				<string>docs</string>
 				<key>runningsubtext</key>
